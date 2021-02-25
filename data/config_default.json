@@ -1,0 +1,245 @@
+{
+  "general": {
+    "ffmpeg": "ffmpeg",
+    "ffprobe": "ffprobe",
+    "ffmpegLogLevel": "info",
+    "tmpDir": "/tmp/tones"
+  },
+  "video": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30
+  },
+  "note": {
+    "35": {
+      "posX": 897,
+      "posY": 21,
+      "extent": 225
+    },
+    "36": {
+      "posX": 774,
+      "posY": 309,
+      "extent": 252
+    },
+    "37": {
+      "posX": 630,
+      "posY": 97,
+      "extent": 284
+    },
+    "38": {
+      "posX": 313,
+      "posY": 401,
+      "extent": 157
+    },
+    "39": {
+      "posX": 611,
+      "posY": 18,
+      "extent": 127
+    },
+    "40": {
+      "posX": 331,
+      "posY": 395,
+      "extent": 285
+    },
+    "41": {
+      "posX": 766,
+      "posY": 230,
+      "extent": 206
+    },
+    "42": {
+      "posX": 573,
+      "posY": 412,
+      "extent": 162
+    },
+    "43": {
+      "posX": 718,
+      "posY": 332,
+      "extent": 118
+    },
+    "44": {
+      "posX": 813,
+      "posY": 104,
+      "extent": 287
+    },
+    "45": {
+      "posX": 471,
+      "posY": 395,
+      "extent": 157
+    },
+    "46": {
+      "posX": 214,
+      "posY": 366,
+      "extent": 166
+    },
+    "47": {
+      "posX": 823,
+      "posY": 153,
+      "extent": 228
+    },
+    "48": {
+      "posX": 702,
+      "posY": 21,
+      "extent": 193
+    },
+    "49": {
+      "posX": 338,
+      "posY": 162,
+      "extent": 100
+    },
+    "50": {
+      "posX": 908,
+      "posY": 80,
+      "extent": 291
+    },
+    "51": {
+      "posX": 867,
+      "posY": 333,
+      "extent": 241
+    },
+    "52": {
+      "posX": 467,
+      "posY": 343,
+      "extent": 139
+    },
+    "53": {
+      "posX": 795,
+      "posY": 294,
+      "extent": 187
+    },
+    "54": {
+      "posX": 634,
+      "posY": 330,
+      "extent": 296
+    },
+    "55": {
+      "posX": 376,
+      "posY": 13,
+      "extent": 276
+    },
+    "56": {
+      "posX": 147,
+      "posY": 333,
+      "extent": 288
+    },
+    "57": {
+      "posX": 119,
+      "posY": 183,
+      "extent": 172
+    },
+    "58": {
+      "posX": 154,
+      "posY": 217,
+      "extent": 268
+    },
+    "59": {
+      "posX": 420,
+      "posY": 305,
+      "extent": 290
+    },
+    "60": {
+      "posX": 803,
+      "posY": 368,
+      "extent": 195
+    },
+    "61": {
+      "posX": 793,
+      "posY": 46,
+      "extent": 100
+    },
+    "62": {
+      "posX": 821,
+      "posY": 400,
+      "extent": 106
+    },
+    "63": {
+      "posX": 479,
+      "posY": 137,
+      "extent": 143
+    },
+    "64": {
+      "posX": 78,
+      "posY": 336,
+      "extent": 170
+    },
+    "65": {
+      "posX": 223,
+      "posY": 134,
+      "extent": 205
+    },
+    "66": {
+      "posX": 225,
+      "posY": 361,
+      "extent": 277
+    },
+    "67": {
+      "posX": 948,
+      "posY": 14,
+      "extent": 122
+    },
+    "68": {
+      "posX": 834,
+      "posY": 402,
+      "extent": 269
+    },
+    "69": {
+      "posX": 93,
+      "posY": 58,
+      "extent": 265
+    },
+    "70": {
+      "posX": 840,
+      "posY": 181,
+      "extent": 281
+    },
+    "71": {
+      "posX": 869,
+      "posY": 391,
+      "extent": 175
+    },
+    "72": {
+      "posX": 931,
+      "posY": 39,
+      "extent": 127
+    },
+    "73": {
+      "posX": 772,
+      "posY": 176,
+      "extent": 288
+    },
+    "74": {
+      "posX": 532,
+      "posY": 171,
+      "extent": 291
+    },
+    "75": {
+      "posX": 595,
+      "posY": 60,
+      "extent": 209
+    },
+    "76": {
+      "posX": 734,
+      "posY": 298,
+      "extent": 251
+    },
+    "77": {
+      "posX": 431,
+      "posY": 0,
+      "extent": 257
+    },
+    "78": {
+      "posX": 230,
+      "posY": 206,
+      "extent": 153
+    },
+    "79": {
+      "posX": 287,
+      "posY": 351,
+      "extent": 163
+    },
+    "80": {
+      "posX": 517,
+      "posY": 230,
+      "extent": 239
+    }
+  }
+}
